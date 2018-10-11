@@ -1,7 +1,7 @@
 # Hacktoberfest
 
 ## Projects
-- [ImagineEngine[(https://github.com/JohnSundell/ImagineEngine)
+- [ImagineEngine](https://github.com/JohnSundell/ImagineEngine)
 - [Mozilla Lockbox](https://github.com/mozilla-lockbox/lockbox-ios/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [Notchy](https://github.com/lionheart/Notchy/issues)
 - [Xi Mac](https://github.com/xi-editor/xi-mac/issues)
