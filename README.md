@@ -8,5 +8,6 @@
 - [Firefox Focus](https://github.com/mozilla-mobile/focus-ios/labels/help%20wanted)
 - [SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky/issues)
 - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift/issues)
+- [CommuteLog](https://github.com/aranasaurus/CommuteLog)
 
 #### Don't see anything interesting? Find something that does 😀 [Awesome-iOS](https://github.com/vsouza/awesome-ios)
